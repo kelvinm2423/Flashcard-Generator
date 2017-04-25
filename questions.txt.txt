@@ -1,0 +1,6 @@
+
+[{"front":"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?","back":"Manticore"},
+
+{"front":"Where did 'Brexit' take place?","back":"United Kingdom"},
+
+{"front":"Who was our last President?","back":"Obama"},
